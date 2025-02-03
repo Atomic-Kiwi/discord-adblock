@@ -22,13 +22,8 @@ In the Vencord section chose "Themes", then open the QuickCSS File
 
 2. Copy & Paste this css into the Custom CSS input *(This will load adblock.css from here, this mean that it will auto-update from this repo)*
 
-For main adblock:
 ```css
-@import url("https://croissantdunord.github.io/discord-adblock/adblock.css");
-```
-- (Optional) For the extras, add this as well on a new line:
-```css
-@import url("https://croissantdunord.github.io/discord-adblock/adblock-extras.css");
+@import url(https://raw.githubusercontent.com/Atomic-Kiwi/discord-adblock/refs/heads/main/adblock.css);
 ```
 
 ![image](https://github.com/CroissantDuNord/discord-adblock/assets/79372025/a5cef664-6bf4-4740-bed7-b66a22b735dc)
