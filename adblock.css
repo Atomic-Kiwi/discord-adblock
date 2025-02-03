@@ -13,3 +13,4 @@ div[aria-label="Explore des serveurs en mode Découverte"] { display: none !impo
 div[class="wrapper__0d616 wrapperVisible__0d616"] { display: none !important; }
 li.channel__972a0.container_e45859 a[data-list-item-id*="nitro"]{ display: none !important; }
 li.channel__972a0.container_e45859 a[data-list-item-id*="shop"]{ display: none !important; }
+div[class="footer__214dc"]{ display: none !important; }
