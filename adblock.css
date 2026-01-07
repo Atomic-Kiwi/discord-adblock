@@ -5,7 +5,7 @@ a[data-list-item-id*="messageRequests"],a[href="/message-requests"] {  display: 
 /* Boutique */
 a[data-list-item-id*="shop"],a[href="/shop"] {  display: none !important; }
 /* Offrir Nitro / Envoyer un cadeau */
-div.c0c49a3e5c8626ac-container > div[aria-label="Envoyer un cadeau"] {  display: none !important; }
+div[role="button"][aria-label="Envoyer un cadeau"] {  display: none !important; }
 /* Bouton GIF */
 div.expression-picker-chat-input-button > div[aria-label="Ouvrir l'onglet des GIF"] {  display: none !important; }
 /* Bouton autocollants */
